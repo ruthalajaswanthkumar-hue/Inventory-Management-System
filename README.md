@@ -35,7 +35,8 @@ Technologies Used
     
 3. Navigate to the project folder
 4. Run the main file:
-   python login.py
+   python  dashboard.py
+
    
  Author
 
