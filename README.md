@@ -40,6 +40,6 @@ Technologies Used
    
  Author
 
- aswanthkumar Ruthala 
+ Jaswanthkumar Ruthala 
 B.Tech – Mathematics and Computing
-Aspiring Data Analyst & Software Developer
+Indian institute of information technology raichur
